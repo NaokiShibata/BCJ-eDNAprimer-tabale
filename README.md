@@ -9,3 +9,7 @@
 - jupyterlab  
 
 後は、**mifish_tebiki2_extable.ipynb**の記載にあるようにフォルダ環境や変数を整えて実行する。
+
+## 出典
+「環境DNA分析技術を用いた淡水魚類調査手法の手引き」第2版 (環境省生物多様性センター)  
+URL : http://www.biodic.go.jp/edna/reports/mifish_tebiki2.pdf
